@@ -1,0 +1,26 @@
+{
+  "name": "react-responsive-waterfall",
+  "version": "1.0.0",
+  "description": "responsive grid system",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --inline --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhen10/React-Responsive-Waterfall.git"
+  },
+  "author": "Zhen Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzhen10/React-Responsive-Waterfall/issues"
+  },
+  "homepage": "https://github.com/wangzhen10/React-Responsive-Waterfall#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+  }
+}
