@@ -1,6 +1,9 @@
 # React-Responsive-Waterfall
 A responsive waterfall component to display <div> with different heights.
 
+##Install
+npm install react-responsive-waterfall
+
 ##Dependencies
 ####Jquery
 npm install --save jquery
