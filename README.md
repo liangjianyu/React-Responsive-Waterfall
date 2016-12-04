@@ -1,6 +1,12 @@
 # React-Responsive-Waterfall
 A responsive waterfall component to display <div> with different heights.
 
+##Dependencies
+####Jquery
+npm install --save jquery
+####Raect
+npm install --save react react-dom
+
 ##Living demo
 http://www.sevenkm.com:8000/#/
 Pressing 'Collection' in App to see.
