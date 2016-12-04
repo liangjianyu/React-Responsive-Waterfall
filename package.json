@@ -1,6 +1,6 @@
 {
   "name": "react-responsive-waterfall",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "description": "A responsive waterfall component to display <div> with different heights.",
   "main": "index.js",
   "directories": {
